@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Web Development - Both Frontend and Backend**
 
-- 📫 How to reach me **palurisubbarayudu45@gmail.come**
+- 📫 How to reach me **palurisubbarayudu45@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paluri subbarayudu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paluri subbarayudu" height="30" width="40" /></a>
 </p>
