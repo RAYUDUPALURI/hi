@@ -4,9 +4,6 @@
    **Web Development - Both Frontend and Backend**
 
 
-https://github.com/RAYUDUPALURI/RAYUDUPALURI/assets/152466129/e1871f01-8af8-43dd-97e4-e13f3bc07fdc
-
-
 
 [![](https://visitcount.itsvg.in/api?id=RAYUDUPALURI&icon=5&color=1)](https://visitcount.itsvg.in)
 
