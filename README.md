@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm RAYUDU😎</h1>
-<h3 align="center">A passionate frontend developer </h3>
 
- **Web Development - Both Frontend and Backend**
+
+   **Web Development - Both Frontend and Backend**
+ ---
+[![](https://visitcount.itsvg.in/api?id=RAYUDUPALURI&icon=5&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RAYUDUPALURI) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/RAYUDU SRD) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PALURI SUBBARAYUDU) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SRD_STAR) 
