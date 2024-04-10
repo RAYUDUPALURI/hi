@@ -23,8 +23,6 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-
-
 ![](https://github-readme-stats.vercel.app/api?username=RAYUDUPALURI&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/> 
                                                                                                                                                                                                       ![](https://github-readme-streak-stats.herokuapp.com/?user=RAYUDUPALURI&theme=tokyonight&hide_border=false)<br/>
                                                                                                                                                                                                       
