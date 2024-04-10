@@ -1,3 +1,8 @@
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
+
+
+
+
 <h1 align="center">Hi 👋, I'm RAYUDU😎</h1>
 
 
