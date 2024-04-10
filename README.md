@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RAYUDU😎</h1>
 
 
-   **Web Development - Both Frontend and Backend**
+   **Web Developer - Both Frontend and Backend**
 
 
 
