@@ -3,8 +3,6 @@
 
 
 
-
-
 <h1 align="center">Hi 👋, I'm RAYUDU😎</h1>
 
 
