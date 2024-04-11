@@ -37,9 +37,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RAYUDUPALURI&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=RAYUDUPALURI&limit=5&theme=matrix&combine_all_yearly_contributions=true)
 
 <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="400">
 <br><br>
