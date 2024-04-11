@@ -33,7 +33,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=RAYUDUPALURI&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/> 
                                                                                                                                                                                                       ![](https://github-readme-streak-stats.herokuapp.com/?user=RAYUDUPALURI&theme=tokyonight&hide_border=false)<br/>
                                                                                                                                                                                                       
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RAYUDUPALURI&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RAYUDUPALURI&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
+<br><br>
 
 
 ## 🏆 GitHub Trophies
