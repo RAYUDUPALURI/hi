@@ -56,11 +56,6 @@
 
 
 
-<div align="center">
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-</div>
-
 
 
 Total logged open-source coding time since 2023-11-29. Updated every 1 hour.
@@ -92,5 +87,8 @@ Total logged open-source coding time since 2023-11-29. Updated every 1 hour.
 <!-- links -->
 
 
-
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+</div>
 
