@@ -46,3 +46,33 @@
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
+
+
+
+Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
+
+<!-- prettier-ignore-start -->
+<!-- START_SECTION:ascii_graph -->
+
+```
+  2000.9 hr  ┤                                                      ╭──────────────────────────────────────────── 
+  2000.3 hr  ┤                                                     ╭╯                                             
+  1999.7 hr  ┤                                                    ╭╯                                              
+  1999.0 hr  ┤                                                   ╭╯                                               
+  1998.4 hr  ┤                                                  ╭╯                                                
+  1997.8 hr  ┤                                                 ╭╯                                                 
+  1997.2 hr  ┤                                                ╭╯                                                  
+  1996.6 hr  ┤                                               ╭╯                                                   
+  1996.0 hr  ┤                                        ╭──────╯                                                    
+  1995.4 hr  ┤                                       ╭╯                                                           
+  1994.8 hr  ┤                                      ╭╯                                                            
+  1994.2 hr  ┤                                     ╭╯                                                             
+  1993.5 hr  ┼─────────────────────────────────────╯                                                              
+             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
+            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
+```
+
+<!-- END_SECTION:ascii_graph -->
+<!-- prettier-ignore-end -->
+
+<!-- links -->
