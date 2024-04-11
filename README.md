@@ -82,3 +82,4 @@ Total logged open-source coding time since 2023-11-29. Updated every 1 hour.
 
 <!-- links -->
 
+<https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg>
