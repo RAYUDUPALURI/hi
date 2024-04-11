@@ -10,7 +10,8 @@
 
    **Web Developer - Both Frontend and Backend**
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
 
 [![](https://visitcount.itsvg.in/api?id=RAYUDUPALURI&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
